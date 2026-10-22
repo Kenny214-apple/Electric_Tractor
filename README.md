@@ -106,3 +106,6 @@ Generates and saves all 10 figures (Fig1–Fig10) to the `results/` folder.
 ## Expected Console Output
 
 Running MODE = 1 (Plowing) should produce:
+
+## Project Video
+Download the file FYP Recording.mp4 to watch the full project explanation.
