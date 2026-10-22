@@ -101,7 +101,6 @@ run('scripts/plot_results.m')
 ```
 
 Generates and saves all 10 figures (Fig1–Fig10) to the `results/` folder.
-
 ---
 
 ## Expected Console Output
